@@ -1,0 +1,7 @@
+{
+  "name": "jest-bug",
+  "packageManager": "yarn@3.5.0",
+  "dependencies": {
+    "jest": "29"
+  }
+}
